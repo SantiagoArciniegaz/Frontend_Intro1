@@ -1,0 +1,60 @@
+
+body {
+
+font-family: italic;
+
+}
+
+header {
+
+    background: url(../img/circuit-board.svg);
+    text-align: center;
+}
+
+a {
+    background-color:#09DFED;
+    margin-right: 100px ;
+    margin-left: 100px;
+}
+
+h1 {
+    background-color: #C4C1C1;
+    text-align: center;
+    color:rgba(3, 75, 143, 0.856);
+    width:250;
+    height:35px;
+    margin-bottom: 100px;
+}
+
+li {
+    margin-right:100px ;
+    margin-left:100px ;
+}
+
+h2 {
+    background-color: #C4C1C1;
+    color: rgba(3, 75, 143, 0.856) ;
+    margin-right: 100px ;
+    margin-left: 100px;
+
+}
+
+
+strong {
+
+    font-weight: bolder;
+    font-style: italic;
+
+}
+
+footer {
+    
+    text-align: center;
+    font-style: inherit;
+    background-color: rgb(3, 75, 143, 0.856);
+    color: white;
+    height: 40px;
+    margin-top: 100px;
+  
+}
+

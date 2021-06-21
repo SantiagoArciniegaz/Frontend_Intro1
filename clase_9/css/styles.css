@@ -1,0 +1,205 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+.header {
+    background-color: black;
+    color: white;           
+} 
+
+span {
+    margin: 15px;
+    margin-left: 20px;
+}
+
+.nav-navigation {
+    
+    display: flex;
+    justify-content: space-between ;
+}
+
+.navigation ul {
+    margin: 0px;
+    padding: 0px;
+    text-align: right;
+    list-style: none;
+}
+.navigation ul li {
+    margin: 15px;
+    margin-right: 20px;
+    display: inline-block;
+}
+
+.menu-navigation {
+   
+    display: flex;
+    justify-content: space-between ; 
+}
+
+.logo {
+    background-color: rgb(243, 172, 19);    
+}
+
+img {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.menu ul {
+    text-align: right;
+    list-style: none;
+}
+.menu ul li {
+    margin: 10px;
+    display: inline-block;
+}
+
+ul li a:hover {
+    background-color: rgb(255, 217, 0, 0.829);
+    transition: all 0.4s linear; 
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;     
+}
+
+i {
+    color: white;
+}
+
+div img {
+    margin: 0px;
+}
+
+main img {
+    display: block;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    color: rgb(107, 53, 14);
+    padding: 0px;
+}
+
+
+div ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;  
+}
+
+div ul li {
+    margin-left: 200px;
+    margin-right: 150px;
+    display: inline-block;   
+}
+
+#bloqueimg {
+    display: flex;
+}
+h2 {
+    text-align: center;
+    color: rgb(107, 53, 14);
+}
+form {
+    
+    text-align:center;
+}
+
+input {
+    background-color: rgb(250, 247, 244);
+    align-content: center;
+}
+
+.boton1 {
+    background-color:rgba(170, 163, 160, 0.973) ;
+    margin-left: 609px;
+    margin-top: 20px;
+    
+}
+.boton2 {
+    background-color: rgb(255, 217, 0, 0.829);
+    align-content: center;
+    margin-bottom: 100px;
+}
+.suscripcion {
+        background-color:rgb(255, 217, 0, 0.829);
+        font-size: 25px; 
+       
+}
+
+label {
+    float: right;
+}
+.clic {
+    background-color:rgb(243, 172, 19);
+}
+.ingreso {
+    background-color: white;
+    float:right  
+}
+footer {
+    background-color:rgb(78, 34, 2) ;
+    color: white;
+}
+.navegacionf {
+    margin-left: 40px;
+    padding: 40px;
+    padding-bottom: 30px;
+}
+
+.text1 {
+    
+    font-size: 25px;
+}
+.text01 {
+    font-size: 16px;
+    margin-left: 35px;
+}
+.text2 {
+    font-size:25px;
+}
+.text02 {
+    font-size: 16px;
+    margin-left: 35px;
+}
+.text3 {
+    font-size:25px;
+}
+.img3 {
+    float: right;
+}
+.img4 {
+    float: right;
+}
+div p {
+    background-color: black;
+    margin: 0px;
+    text-align: center;
+}
+
+.navegacionf i {
+    height: 40px;
+}
+
+
+
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
